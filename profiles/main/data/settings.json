@@ -1,0 +1,138 @@
+{
+    "liveshare.audio.startCallOnShare": true,
+    "settingsSync.ignoredSettings": [
+        "editor.fontSize"
+
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontFamily": "Fira Code Light",
+    "editor.mouseWheelZoom": true,
+    // "background.windowBackgrounds": [
+    //     "c:/Users/renji/Pictures/wall.png",
+    //     "c:/Users/renji/Pictures/world_in_lamp.png"
+    // ],
+    "background.editorBackgrounds": [
+        "c:/Users/renji/Pictures/wall.png"
+    ],
+    // "background.sidebarBackgrounds": [
+    //     "c:/Users/renji/Pictures/wall.png"
+    // ],
+    // "background.panelBackgrounds": [
+    //     "c:/Users/renji/Pictures/wall.png"
+
+    // ],
+    "background.opacity": 0.7,
+    "matlab.matlabpath": "C:\\Program Files\\MATLAB\\R2021b\\bin\\matlab.exe",
+    "editor.snippetSuggestions": "top",
+    "matlab.mlintpath": "C:\\Program Files\\MATLAB\\R2021b\\bin\\win64\\mlint.exe",
+    "matlab-formatter.pythonPath": "C:\\Program Files\\Python310\\",
+    "editor.codeActionsOnSave": {
+    },
+    "editor.fontLigatures": false,
+    "blockman.n01LineHeight": 0,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "editor.inlayHints.enabled": false,
+    "editor.fontFamily": "Operator Mono, Dank Mono, Fira Code Light",
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "editor.accessibilitySupport": "off",
+    "files.autoGuessEncoding": true,
+    "matlab.linterEncoding": "gb2312",
+    "matlab-interactive-terminal.pythonPath": "C:\\Users\\renji\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "matlab": "cd $dir && matlab -nosplash -nodesktop -r $fileNameWithoutExt",
+        "javascript": "node",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "php": "php",
+        "python": "python -u",
+        "perl": "perl",
+        "perl6": "perl6",
+        "ruby": "ruby",
+        "go": "go run",
+        "lua": "lua",
+        "groovy": "groovy",
+        "powershell": "powershell -ExecutionPolicy ByPass -File",
+        "bat": "cmd /c",
+        "shellscript": "bash",
+        "fsharp": "fsi",
+        "csharp": "scriptcs",
+        "vbscript": "cscript //Nologo",
+        "typescript": "ts-node",
+        "coffeescript": "coffee",
+        "scala": "scala",
+        "swift": "swift",
+        "julia": "julia",
+        "crystal": "crystal",
+        "ocaml": "ocaml",
+        "r": "Rscript",
+        "applescript": "osascript",
+        "clojure": "lein exec",
+        "haxe": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+        "rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+        "racket": "racket",
+        "scheme": "csi -script",
+        "ahk": "autohotkey",
+        "autoit": "autoit3",
+        "dart": "dart",
+        "pascal": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        "d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+        "haskell": "runhaskell",
+        "nim": "nim compile --verbosity:0 --hints:off --run",
+        "lisp": "sbcl --script",
+        "kit": "kitc --run",
+        "v": "v run",
+        "sass": "sass --style expanded",
+        "scss": "scss --style expanded",
+        "less": "cd $dir && lessc $fileName $fileNameWithoutExt.css",
+        "FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "sml": "cd $dir && sml $fileName"
+    },
+    "files.eol": "\n",
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "KeilAssistant.C51.Uv4Path": "C:\\Keil_v5\\UV4\\UV4.exe",
+    "KeilAssistant.MDK.Uv4Path": "C:\\Keil_v5\\UV4\\UV4.exe",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "remote.SSH.remotePlatform": {
+        "129.154.52.153": "linux"
+    },
+    "window.commandCenter": true,
+    "gitlens.proxy": {
+    },
+    "git.confirmSync": false,
+    "http.proxy": "socks5://172.27.128.1:10808",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.linux": "/root/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path.linux": "/root/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.linux": "/root/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    }
+}
