@@ -135,5 +135,6 @@
         "vscode-kubernetes.minikube-path.linux": "/root/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
     },
     "terminal.integrated.enableMultiLinePasteWarning": false,
-    "window.commandCenter": true
+    "window.commandCenter": true,
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)"
 }

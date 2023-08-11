@@ -35,10 +35,10 @@ disabled:
     uuid: 272c52aa-7208-4d48-9a20-3f88e1868933
   - id: Arm.remote-build
     uuid: 167c18f8-ec19-4a35-af3b-0cad481137c9
-  - id: batisteo.vscode-django
-    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
   - id: Arm.virtual-hardware
     uuid: d34c868f-40af-4343-bf7f-f5cce16bbdfa
+  - id: batisteo.vscode-django
+    uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
   - id: cl.keil-assistant
     uuid: a3229c35-aa81-4eff-90d6-309ad15f1e70
   - id: danields761.dracula-theme-from-intellij-pythoned
