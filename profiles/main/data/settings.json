@@ -119,20 +119,21 @@
         "jsdelivr.com",
         "unpkg.com"
     ],
-    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
     "editor.inlineSuggest.enabled": true,
     "workbench.iconTheme": "material-icon-theme",
     "remote.SSH.remotePlatform": {
-        "129.154.52.153": "linux"
+        "129.154.52.153": "linux",
+        "raspberrypi": "linux"
     },
-    "window.commandCenter": true,
     "gitlens.proxy": {
     },
     "git.confirmSync": false,
-    "http.proxy": "socks5://172.27.128.1:10808",
+    // "http.proxy": "socks5://172.27.128.1:10808",
     "vs-kubernetes": {
         "vscode-kubernetes.helm-path.linux": "/root/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
         "vscode-kubernetes.kubectl-path.linux": "/root/.local/state/vs-kubernetes/tools/kubectl/kubectl",
         "vscode-kubernetes.minikube-path.linux": "/root/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
-    }
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.commandCenter": true
 }
